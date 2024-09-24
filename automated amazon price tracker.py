@@ -14,7 +14,7 @@ Task Checklist:
 4. Utilise conditional statements (if else) for when price is less than or at a certain value (completed)
 """
 
-# Mock website (not-live) used: https://appbrewery.github.io/instant_pot/
+# live website used: https://www.amazon.com/dp/B075CYMYK6?ref_=cm_sw_r_cp_ud_ct_FM9M699VKHTT47YD50Q6&th=1
 
 # Ask user for URL (live website), Retrieve website code in text format and integrated headers
 URL = input("Please copy and paste the URL of the item you're searching for: ")
